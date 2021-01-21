@@ -1,0 +1,60 @@
+.tl{
+    font-size: 2em;
+    font-weight: 800;
+    color: #7ed957;
+}
+.fwu{
+    font-weight: bold;
+    line-height: 2em;
+     text-align: justify;
+}
+.why-bg{
+     background-color: #1d7151;
+     
+}
+.why-tl{
+  padding-top: 50px;  
+  font-size: 2em;
+    font-weight: 800;
+    color: white;
+}
+.why-text{
+    font-weight: bold;
+    line-height: 2em;
+     text-align: justify;
+     color: white;
+}
+.footer-bg{
+    background-color:#131416;
+    
+}
+.footer-about-tl{
+    padding-top: 50px;  
+    font-size: 1.5em;
+      font-weight: 800;
+      color:#1d7151;
+      opacity: 0.7;
+  }
+  .footer-tl{
+    padding-top: 50px;  
+    font-size: 1.2em;
+      font-weight: 800;
+      color: white;
+      opacity: 0.7;
+  }
+  .footer-text{
+     text-align: justify;
+     color: white;
+     opacity: 0.7;
+}
+a{
+    color: white;
+    opacity: 0.7;
+}
+a:hover{
+    text-decoration: none; 
+    color: white;
+}
+ul{
+    list-style-type: none;
+}

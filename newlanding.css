@@ -1,0 +1,61 @@
+.product-btn {
+    text-transform: capitalize;
+    border-color: #7ed957;
+    margin-top: -10px;
+}
+.add-to-caart-btn{
+    text-transform: capitalize;
+    background-color: #7ed957;
+    color: white;
+    border-color: #7ed957;
+    font-weight: bold;
+}
+.product-card {
+    border: 1px solid #7ed957;
+    border-radius: 10px;
+}
+
+.product-price {
+    color: #7ed957;
+    font-weight: bold;
+    margin-top: -10px;
+}
+.my-btn{
+    max-width: 700px;
+    margin: auto;
+}
+
+/* ========= big screen ========= */
+@media screen and (min-width: 480px) {
+    .product-name {
+        margin-top: -30px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        text-align: center;
+        font-size: 0.9em;
+    }
+  }
+  
+  /* ========= small screen ========= */
+  @media screen and (max-width: 600px) {
+    .product-name {
+        margin-top: -20px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        text-align: center;
+        font-size: 0.9em;
+    }
+  }
+  /* ========= small screen ========= */
+  @media screen and (max-width: 490px) {
+    .product-name {
+        
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        text-align: center;
+        font-size: 0.9em;
+    }
+  }

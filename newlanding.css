@@ -37,6 +37,7 @@
     }
     .my-card{
         height: 150px; width: 100%;
+        border-radius: 10px;
         }
         .mp-txt{
             font: 1em;
@@ -48,6 +49,7 @@
             font-weight: bold;
             color: white;
         }
+        
   }
   
   /* ========= small screen ========= */
